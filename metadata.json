@@ -1,0 +1,6 @@
+{
+  "name": "BASKT - Elevated Goods Price Comparison",
+  "description": "A Skyscanner-like price comparison engine for elevated everyday goods ($50-$2000) with AI product recommendation, live price tracking, landed shipping to Singapore, and promo code auto-application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
